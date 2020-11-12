@@ -1,0 +1,13 @@
+/* GLOBAL STYLES */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: museo-sans, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
